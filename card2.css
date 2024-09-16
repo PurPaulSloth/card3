@@ -1,0 +1,21 @@
+.main{
+    margin: 10px auto;
+    width: 450px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(125, 163, 245);
+    color: rgb(67, 67, 67);
+    border-bottom: 6px solid rgb(149, 136, 136);
+    font-family: Verdana, Geneva, Tahoma,Arial, Helvetica, sans-serif;
+}
+
+.dotted{
+    border: 1px dotted black;
+}
+
+
+.avatar{
+    width: 150px;
+}
